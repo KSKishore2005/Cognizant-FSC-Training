@@ -3,4 +3,4 @@
 ### Email : kishoreks2026@gmail.com
 ### GitHub Repository : https://github.com/KSKishore2005/Cognizant-FSC-Training.git
 
-### Week 1 : Design Patterns and Principles
+### Week 2 : PL SQL programming
